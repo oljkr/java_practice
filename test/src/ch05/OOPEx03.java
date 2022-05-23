@@ -1,5 +1,6 @@
 package ch05;
 
+
 //요리사
 class 요리사 {
 	String name = "요리사";
