@@ -32,7 +32,6 @@ class 축구공 extends 공{
 
 class 가방 <T> {
 	private T data;
-	
 	public T getData() {
 		return data;
 	}
