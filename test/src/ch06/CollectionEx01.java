@@ -17,7 +17,7 @@ public class CollectionEx01 {
 		c1.add(5);
 		c1.add(6);
 		
-		//System.out.println(c1.get(0));
+		//System.out.println(c1.get(0));  
 		
 		//for문(반복문) = 리팩토링
 		int size = c1.size();
